@@ -22,3 +22,6 @@ _Researcher 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 
 - [2026-05-07] STEP 2: 외부 URL(https://cmstudioplus.com/)에 접속하여 경쟁사 분석을 수행하고, COSLAB Hub와의 기능 비교표를 10개 항목 이상 포함하여 작성하세요. 접근 불가 시 '확인 필요' 처리 후 진행합니다. → 산출물 sessions/2026-05-07T01-20/researcher.md
 - [2026-05-07] STEP 3: COSLAB-HUB-SCHEMA.md를 재참조하여 Supabase RLS 적용을 위한 상세 계획(테이블명, 정책, 우선순위, 예상 공수)을 작성하세요. 이 단계는 100% 사실 기반이어야 합니다. → 산출물 sessions/2026-05-07T01-20/researcher.md
 - [2026-05-07] STEP 1부터 STEP 5까지의 모든 과정을 주도한다. 먼저, brainpack/DDAKIcoperraion 폴더 내의 COSLAB-HUB-*.md 파일 5개를 정독하고, 각 문서별로 지정된 핵심 정보를 추출하여 보고해야 한다. (COSLAB-HUB-DESIGN.md: 모듈 구조, 사용자 플로우, 핵심 기능 / COSLAB-HUB-STATUS.md: 완성/진행/미착수 기능 및 % / COSLAB-HUB-API.md: 외부 노출 API 엔드포인트 수, 인증 방식 / COSLAB-HUB-SCHEMA.md: 테이블 수, 핵심 엔터티 5
+- [2026-05-07] STEP 1부터 STEP 5까지 순서대로 진행합니다. 모든 단계는 사용자가 제공한 컨텍스트(COSLAB-HUB-*.md 파일들)를 기반으로 수행되어야 하며, 외부 검색이나 추측은 엄격히 금지됩니다. 특히, 각 주장에는 반드시 지정된 출처와 태그([출처: ...], [추측], [확인 필요])를 명시해야 합니다. → 자격증명 부족으로 차단됨
+- [2026-05-07] 📥 새 지식 입수 — **COSLAB Hub — API Endpoint Reference**: > 233 route.ts 파일을 분석한 endpoint 카탈로그. AI 에이전트가 본 코드베이스에서 작업할 때 참고용. (출처: 00_Raw\2026-05-07\COSLAB-HUB-API.md)
+- [2026-05-07] 📥 새 지식 입수 — **COSLAB Hub — 코딩 컨벤션 & 재사용 패턴**: > AI 에이전트가 본 코드베이스에서 일관된 코드를 쓰기 위한 패턴 모음. (출처: 00_Raw\2026-05-07\COSLAB-HUB-CONVENTIONS.md)
